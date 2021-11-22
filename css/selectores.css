@@ -1,0 +1,24 @@
+
+h1{
+    color: coral;
+}
+
+b{
+    color: darkcyan;
+}
+
+.titulo{
+    color: darkred;
+}
+#element{
+    color: dodgerblue;
+}
+[atributo="sarasa"]{
+    color: fuchsia;
+}
+h5 p{
+    color: gold;
+}
+[atributo="sarasa"]:hover{
+    color: midnightblue;
+}
